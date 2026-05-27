@@ -1,5 +1,4 @@
 import styles from './Header.module.css'
-import carrito from '../assets/img/carrito.png';
 
 const Header = ({path_logo, titulo, subtitulo}) => {
     return(
@@ -13,7 +12,7 @@ const Header = ({path_logo, titulo, subtitulo}) => {
                 <a href="#inicio">Inicio</a>
                 <a href="#productos">Productos</a>
                 <a href="#contacto">Contacto</a>
-                <a href="#carrito"><img src={carrito} alt="carrito" /></a>
+                <a href="#carrito"><img src="app-TalentoTech/src/assets/img/carrito.png" alt="carrito" /></a>
             </nav>
         </header>
     )
