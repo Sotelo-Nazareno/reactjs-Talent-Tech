@@ -4,20 +4,20 @@
         "nombre": "Jabon",
         "precio": 12000,
         "stock":22,
-        "imagen": "public/imagenes/jabon.jpeg"
+        "imagen": "/imagenes/jabon.jpeg"
     },
     {
         "id": 2,
         "nombre": "Suavizante",
         "precio": 9750,
         "stock":2,
-        "imagen": "public/imagenes/suavizante.png"
+        "imagen": "/imagenes/suavizante.png"
     },
     {
         "id": 3,
         "nombre": "Perfume",
         "precio": 8500,
         "stock":12,
-        "imagen": "public/imagenes/perfume.png"
+        "imagen": "/imagenes/perfume.png"
     }
 ]
