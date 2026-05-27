@@ -1,0 +1,9 @@
+
+.footer{
+    padding: 10px;
+    background-color: rgb(241, 241, 241);
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+    max-height: 100px;
+}

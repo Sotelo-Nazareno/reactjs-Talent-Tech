@@ -1,0 +1,15 @@
+.subtitulo{
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.productos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(160, 154, 154);
+    border-radius: 10px;
+    gap: 10px;
+    padding: 2rem;
+}

@@ -1,0 +1,39 @@
+
+.tarjeta{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 253, 250);
+    border: 1px solid black;
+    box-shadow: 1px 1px 10px black;
+    border-radius: 10px;
+    height: 450px;
+    max-height: auto;
+    width: 250px;
+    padding: 10px;
+    overflow: hidden;
+    gap: 10px;
+}
+
+.descripcion{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+
+.tarjeta img{
+    height: 300px;
+    width: 250px;
+}
+
+.tarjeta button{
+    background-color: rgb(8, 147, 168);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    color: aliceblue;
+    width: 150px;
+    height: 50px;
+    border: 0cap;
+    padding: 10px;
+}
